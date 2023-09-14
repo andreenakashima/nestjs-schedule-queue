@@ -5,5 +5,5 @@ POST http://localhost:3000/tweets
 Content-Type: application/json
 
 {
-  "text": "Conteudo do tweet" 
+  "text": "Conteudo do tweet 2" 
 }
